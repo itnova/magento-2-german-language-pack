@@ -3,7 +3,7 @@
   "description": "German language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "type": "magento2-language",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": [
